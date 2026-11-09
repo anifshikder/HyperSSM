@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "HyperSSM"
+authors:
+  - family-names: Shikder
+    given-names: Anif N.
+    affiliation: "Fields Lab for Network Computation, Fields Institute"
+version: 0.1.0
+license: MIT
+preferred-citation:
+  type: article
+  title: "Symmetry in Time: A Representation Theory of Linear Recurrent Memory"
+  authors:
+    - family-names: Shikder
+      given-names: Anif N.
+  year: 2026

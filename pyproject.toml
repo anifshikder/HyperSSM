@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyperssm"
+version = "0.1.0"
+description = "State-space models whose channels use real, complex or quaternion numbers"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Anif N. Shikder"}]
+requires-python = ">=3.9"
+dependencies = ["torch>=2.0", "numpy"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+notebooks = ["matplotlib", "h5py", "jupyter"]
+
+[tool.setuptools]
+packages = ["hyperssm"]
