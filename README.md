@@ -3,7 +3,7 @@
 **State-space models whose memory uses the right number system for the task.**
 
 Companion code for *Symmetry in Time: A Representation Theory of Linear Recurrent Memory*
-(Anif N. Shikder, Fields Lab for Network Computation, Fields Institute).
+(Anif N. Shikder, Ramit Dey, Jan Minac, and Lyle E. Muller).
 
 ---
 
@@ -148,7 +148,7 @@ their own copies of the code so that each one runs on its own.
 ```bibtex
 @article{shikder2026symmetry,
   title  = {Symmetry in Time: A Representation Theory of Linear Recurrent Memory},
-  author = {Shikder, Anif N.},
+  author = {Shikder, Anif N. and Dey, Ramit and Minac, Jan and Muller Lyle E.},
   year   = {2026}
 }
 ```
